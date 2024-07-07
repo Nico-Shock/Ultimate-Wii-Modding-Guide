@@ -75,11 +75,6 @@ To format the SD card to FAT32 in MacOS, follow these steps:
 3. select the letter with the bomb and wait.
 4. in the `HackMii Installer` select "Continue" and then "Install the Homebrew Channel" and select "Yes, continue".
 5. then select "Continue" and then "Exit" to enter the Homebrew Launcher.
+6. 
 
-
-
-
-
-### THIS IS ONLY AN ENGLISH TRANSLATION AND IS PROBABLY NOT PERFECT AS I WROTE THE ORIGINAL IN GERMAN.
-
-Translated with DeepL.com (free version)
+### **THIS IS ONLY AN ENGLISH TRANSLATION AND IS PROBABLY NOT PERFECT AS I WROTE THE ORIGINAL IN GERMAN.**
