@@ -78,6 +78,8 @@ To format the SD card to FAT32 in MacOS, follow these steps:
 
 
 
+
+
 ### THIS IS ONLY AN ENGLISH TRANSLATION AND IS PROBABLY NOT PERFECT AS I WROTE THE ORIGINAL IN GERMAN.
 
 Translated with DeepL.com (free version)
